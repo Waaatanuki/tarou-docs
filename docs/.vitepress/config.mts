@@ -12,6 +12,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/tarou-docs/favicon.ico' }],
   ],
+  cleanUrls: true,
   vite: {
     plugins: [
       Unocss({
