@@ -37,7 +37,8 @@ export default defineConfig({
       {
         text: '开始',
         items: [
-          { text: '关于', link: '/begin/about' },
+          { text: '简介', link: '/begin/about' },
+          { text: '快速开始', link: '/begin/start' },
           { text: '更新日志', link: '/begin/changelog' },
         ],
       },
