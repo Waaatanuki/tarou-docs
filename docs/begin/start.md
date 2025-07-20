@@ -10,6 +10,8 @@
 SRWare Iron 可以看作一款轻量版Chrome，不会自动升级，很多人都推荐过，目前也是我专门用来玩gbf的浏览器。
 :::
 
+同时，因为插件中使用的一些浏览器API比较新，所以浏览器的最低版本需要116。
+
 ## 获取插件
 
 在[更新日志](./changelog)下载最新版本的压缩包，解压缩以后有个Chrome-Extension-Tarou文件夹，里面就是插件文件。
@@ -31,7 +33,7 @@ SRWare Iron 可以看作一款轻量版Chrome，不会自动升级，很多人�
 - 点击`加载已解压的扩展程序`选择Chrome-Extension-Tarou文件夹，加载太郎插件
   ![alt text](/assets/start/img3.png)
 
-- 看到这个插件面板就说明加载成功了
+- 看到这个插件面板就说明加载成功
   ![alt text](/assets/start/img4.png)
 
 ## 更新插件
