@@ -25,15 +25,19 @@ SRWare Iron 可以看作一款轻量版Chrome，不会自动升级，很多人�
 :::
 
 - 打开浏览器的管理扩展程序页面
+
   ![alt text](/assets/start/img1.png)
 
 - 打开右上角`开发者模式`
+
   ![alt text](/assets/start/img2.png)
 
 - 点击`加载已解压的扩展程序`选择Chrome-Extension-Tarou文件夹，加载太郎插件
+
   ![alt text](/assets/start/img3.png)
 
 - 看到这个插件面板就说明加载成功
+
   ![alt text](/assets/start/img4.png)
 
 ## 更新插件
@@ -43,6 +47,7 @@ SRWare Iron 可以看作一款轻量版Chrome，不会自动升级，很多人�
 - 删除Chrome-Extension-Tarou文件夹
 - 把新下载的压缩包解压后的Chrome-Extension-Tarou文件夹放到E:\gbf，使插件路径依然保持E:\gbf\Chrome-Extension-Tarou
 - 在浏览器的管理扩展程序页面重新加载插件<Badge type="danger" text="重要" />
+
   ![alt text](/assets/start/img5.png)
 
 ::: warning
@@ -62,6 +67,7 @@ SRWare Iron 可以看作一款轻量版Chrome，不会自动升级，很多人�
 ### 如何添加启动项命令
 
 右击浏览器图标在属性-目标最后追加启动项命令
+
 ![alt text](/assets/start/img6.png)
 
 命令之间有个空格，添加完之后类似于 ...chrome.exe" --silent-debugger-extension-api --disable-backgrounding-occluded-windows

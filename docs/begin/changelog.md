@@ -5,9 +5,13 @@
 ### 新特性
 
 - 战斗信息: 玩家信息框增加表情记录方便查看。目前只展示了女路人和维拉的hi表情，有人第二次发hi时重置之前的记录。
+
   ![配置](/assets/changelog/img1-3.2.4.png)
+
 - 增加模拟抽卡功能，需要先点击游戏中的提供割合获取卡池概率，绿框代表卡池up。
+
   ![配置](/assets/changelog/img2-3.2.4.png)
+
 - 主页增加`剧情复刻`的活动信息
 
 ## v3.2.3 (25-07-15) [下载](https://github.com/Waaatanuki/Chrome-Extension-Tarou/releases/download/3.2.3/Chrome-Extension-Tarou.v3.2.3.zip)
