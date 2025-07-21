@@ -48,7 +48,7 @@ export default defineConfig({
         items: [
           { text: '概论', link: '/feature/intro' },
           { text: '主页', link: '/feature/dashboard' },
-          // { text: '掉落统计', link: '/feature/drop' },
+          { text: '掉落统计', link: '/feature/drop' },
           // { text: '神器甄选', link: '/feature/artifact' },
           // { text: '队伍信息', link: '/feature/party' },
           { text: '配置查询', link: '/feature/build' },
