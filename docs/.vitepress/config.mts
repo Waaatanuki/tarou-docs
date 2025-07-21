@@ -58,7 +58,7 @@ export default defineConfig({
           // { text: '抽卡模拟', link: '/feature/gacha' },
           // { text: '接战', link: '/feature/battle' },
           // { text: '用户信息', link: '/feature/info' },
-          // { text: '设置', link: '/feature/setting' },
+          { text: '设置', link: '/feature/setting' },
         ],
       },
     ],
