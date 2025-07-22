@@ -8,9 +8,7 @@
 
   ![配置](/assets/changelog/3.2.4-img1.png)
 
-- 增加模拟抽卡功能，需要先点击游戏中的提供割合获取卡池概率，绿框代表卡池up。
-
-  ![配置](/assets/changelog/3.2.4-img2.png)
+- 增加[抽卡模拟](../feature/gacha)功能
 
 - 主页增加`剧情复刻`的活动信息
 

@@ -55,7 +55,7 @@ export default defineConfig({
           // { text: '战斗信息', link: '/feature/combat' },
           { text: '战斗记录', link: '/feature/history' },
           // { text: '标记玩家', link: '/feature/patient' },
-          // { text: '抽卡模拟', link: '/feature/gacha' },
+          { text: '抽卡模拟', link: '/feature/gacha' },
           // { text: '接战', link: '/feature/battle' },
           { text: '用户信息', link: '/feature/info' },
           { text: '设置', link: '/feature/setting' },
