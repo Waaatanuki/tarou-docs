@@ -14,7 +14,7 @@ SRWare Iron 可以看作一款轻量版Chrome，不会自动升级，很多人�
 
 ## 获取插件
 
-在[更新日志](./changelog)下载最新版本的压缩包，解压缩以后有个Chrome-Extension-Tarou文件夹，里面就是插件文件。
+点击下载最新版本的[压缩包](https://github.com/Waaatanuki/Chrome-Extension-Tarou/releases/download/3.2.4/Chrome-Extension-Tarou.v3.2.4.zip)，解压缩以后有个Chrome-Extension-Tarou文件夹，里面就是插件文件。
 
 将该文件夹移动到一个固定位置，比如E:\gbf\Chrome-Extension-Tarou，之后尽量不要改动位置。
 
