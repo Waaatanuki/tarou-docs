@@ -4,7 +4,7 @@
 
 ## 每日统计
 
-![alt text](/assets/dashboard/img1.png)
+![alt text](/assets/img/dashboard-img1.png)
 
 自动记录每天进行的副本讨伐次数，每天0点清空数据。右上角分别代表消耗的AP(悬浮显示小红数)、AAP和BP数量。扫荡类副本不会记录怪物图标，但会正常记录消耗。
 
@@ -12,19 +12,19 @@
 点击怪物图标可切换展示右上角的小图钉标识，表示是否固定展示，固定展示时每天只清空数据但图标保留。可用于需要提醒自己刷某些副本的场景，比如刷六龙成就时固定展示六龙，每天提醒自己刷几只。
 :::
 
-![alt text](/assets/dashboard/img2.png)
+![alt text](/assets/img/dashboard-img2.png)
 
 点击标题【每日统计】，可弹窗展示每日掉落情况，右上角可切换展示顺序，同样每天0点清空数据。
 
 ## 点数资源
 
-![alt text](/assets/dashboard/img3.png)
+![alt text](/assets/img/dashboard-img3.png)
 
 基本等同于首页用户面板中的点数数据，不用再点开二级菜单去确认详细信息，达到上限时数字会变色。
 
 ## 活动信息
 
-![alt text](/assets/dashboard/img4.png)
+![alt text](/assets/img/dashboard-img4.png)
 
 点进活动主页就会自动获取并展示活动信息，不同的活动展示内容会略有不同，大致分为标题展示的重要点数，以及主体的各种任务进展情况，右上角的时间表示最后的更新时间。
 
@@ -36,13 +36,13 @@
 
 ## 素材监控
 
-![alt text](/assets/dashboard/img5.png)
+![alt text](/assets/img/dashboard-img5.png)
 
 基本等同于游戏自带的底部素材监控，区别在于全部展示，省去了来回翻页的操作。如果设定了数量，达到数量后数字会变色。
 
 ## 抽卡资源
 
-![alt text](/assets/dashboard/img6.png)
+![alt text](/assets/img/dashboard-img6.png)
 
 进入抽卡界面时自动获取当前的抽卡资源，并换算成xx井，还会自动计算攒井天数。
 
@@ -50,10 +50,10 @@
 
 ## 回复道具
 
-![alt text](/assets/dashboard/img7.png)
+![alt text](/assets/img/dashboard-img7.png)
 
 主页底部有一个回复道具信息按钮，点击可展示回复道具的记录信息。
 
-![alt text](/assets/dashboard/img8.png)
+![alt text](/assets/img/dashboard-img8.png)
 
 回复道具数据需要进入道具一览页面，选择【回复育成】标签才能记录，且每天只会记录一次。

@@ -2,13 +2,13 @@
 
 ## 主页设置
 
-![alt text](/assets/setting/img1.gif)
+![alt text](/assets/img/setting-img1.gif)
 
 点击切换主页不同模块显示状态，拖拽改变显示顺序。
 
 ## 弹窗通知
 
-![alt text](/assets/setting/img2.png)
+![alt text](/assets/img/setting-img2.png)
 
 勾选需要的弹窗提醒，右上角可以调节通知音量。
 
@@ -22,16 +22,16 @@
 
 ## 掉落提醒
 
-![alt text](/assets/setting/img3.png)
+![alt text](/assets/img/setting-img3.png)
 
 顾名思义，在标记的物品掉落时会出发弹窗提醒，右上角可以切换通知开关。鼠标悬浮在物品图片上会显示删除按钮，点击即可删除该物品提醒。
 
-![alt text](/assets/setting/img4.png)
+![alt text](/assets/img/setting-img4.png)
 
 你可以在所有有图片的地方右键并选择加入掉落监控，当然前提得是一个合理的掉落物品图片。
 
 ## 未拥有角色
 
-![alt text](/assets/setting/img5.png)
+![alt text](/assets/img/setting-img5.png)
 
 展示标记的未拥有角色，用于[配置查询](./build)时过滤有这些角色的配置，鼠标悬浮在角色图片上会显示删除按钮，点击即可删除该角色。添加角色方式参考[配置查询](./build)中的说明。

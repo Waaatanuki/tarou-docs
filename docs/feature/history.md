@@ -1,12 +1,12 @@
 # 战斗记录
 
-![alt text](/assets/history/img1.png)
+![alt text](/assets/img/history-img1.png)
 
 插件会自动记录最近的10场战斗，方便复盘和分享。
 
 ## 上传
 
-![alt text](/assets/history/img2.gif)
+![alt text](/assets/img/history-img2.gif)
 
 由于战斗记录和使用配置没有强绑定的关系，上传时会默认获取当前最新的队伍信息。如果该记录并不是使用的这个队伍配置，可以在游戏中切换到正确的队伍再进行上传。
 

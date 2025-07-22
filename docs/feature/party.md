@@ -4,7 +4,7 @@
 
 为了解决这个问题，使用插件时每次进入编成界面，都会获取数据并整理形成以下的界面，这样玩家只用一次截图就可以分享几乎所有常用的信息。
 
-![alt text](/assets/party/img1.png)
+![alt text](/assets/img/party-img1.png)
 
 ## 获取角色FA技能状态
 
@@ -16,13 +16,13 @@
 
 ## 获取友招信息
 
-![alt text](/assets/party/img2.png)
+![alt text](/assets/img/party-img2.png)
 
 友招比较特别，需要点击预测伤害设置页面才能获取到。
 
 ## 获取角色详情
 
-![alt text](/assets/party/img3.png)
+![alt text](/assets/img/party-img3.png)
 
 第一张图中还有个没有展示出来的信息，那就是角色详情，包括神器信息以及戒指和耳环属性。
 

@@ -6,11 +6,11 @@
 
 插件面板，也就是浏览器侧边栏有两种打开方式。一种是点击导航栏中的太郎图标
 
-![alt text](/assets/intro/img1.png)
+![alt text](/assets/img/intro-img1.png)
 
 另一种是在游戏页面中打开右键菜单，选择开启侧边栏
 
-![alt text](/assets/intro/img2.png)
+![alt text](/assets/img/intro-img2.png)
 
 为了避免一些冲突问题，侧边栏只能开启一个，已经开启侧边栏的情况下在新标签页开启侧边栏会自动关闭。
 
@@ -22,11 +22,11 @@
 
 侧边栏可以调整位置和宽度。位置需要在浏览器自身的设置里选择，可以让其显示在浏览器左侧或右侧。
 
-![alt text](/assets/intro/img3.png)
+![alt text](/assets/img/intro-img3.png)
 
 拖拽浏览器与侧边栏的边界可以调整侧边栏的宽度。
 
-![alt text](/assets/intro/img4.gif)
+![alt text](/assets/img/intro-img4.gif)
 
 ::: info
 因为插件样式都是按照侧边栏的最小宽度来设计的，但不同浏览器侧边栏的最小宽度并不统一。为了保证统一的展示效果，同时也为了解决有部分人觉得页面太小看不清的问题。改变侧边栏宽度会同时按比例对页面进行缩放，保证布局的一致性。
