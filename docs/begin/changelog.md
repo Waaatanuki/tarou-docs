@@ -1,6 +1,6 @@
 # 更新日志
 
-## v3.2.4 (25-07-15) [下载](https://github.com/Waaatanuki/Chrome-Extension-Tarou/releases/download/3.2.4/Chrome-Extension-Tarou.v3.2.4.zip)
+## v3.2.4 (25-07-22) [下载](https://github.com/Waaatanuki/Chrome-Extension-Tarou/releases/download/3.2.4/Chrome-Extension-Tarou.v3.2.4.zip)
 
 ### 新特性
 
