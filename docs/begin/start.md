@@ -66,8 +66,30 @@ SRWare Iron 可以看作一款轻量版Chrome，不会自动升级，很多人�
 
 ### 如何添加启动项命令
 
+::: details Windows
 右击浏览器图标在属性-目标最后追加启动项命令
 
 ![alt text](/assets/img/start-img6.png)
 
 命令之间有个空格，添加完之后类似于 ...chrome.exe" --silent-debugger-extension-api --disable-backgrounding-occluded-windows
+:::
+
+::: details macOS
+
+1. 打开启动台-其他-自动操作，或者在终端里输入`open -a "Automator"`
+   ![alt text](/assets/img/start-img7.png)
+
+2. 选择`应用程序`-`实用工具`-`运行Shell脚本`
+   ![alt text](/assets/img/start-img8.png)
+
+3. 在Shell脚本框中根据使用的浏览器输入命令，`浏览器地址 --silent-debugger-extension-api --disable-backgrounding-occluded-windows`
+   ![alt text](/assets/img/start-img9.png)
+
+   上图是我自己使用的Iron浏览器地址，不同版本不同浏览器的位置可能不一样，需要根据实际情况填写浏览器的最终执行程序地址。
+
+   ::: warning
+   如果路径中有空格，需要在空格前加上反斜杠。比如Chrome的执行文件地址通常是`/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome`
+
+4. 点击菜单-文件-存储，保存为应用程序，以后通过这个程序启动浏览器就会带着启动项命令。
+
+:::
