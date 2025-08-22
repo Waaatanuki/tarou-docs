@@ -57,3 +57,13 @@
 ![alt text](/assets/img/dashboard-img8.png)
 
 回复道具数据需要进入道具一览页面，选择【回复育成】标签才能记录，且每天只会记录一次。
+
+## 扫荡副本
+
+![alt text](/assets/img/dashboard-img9.png)
+
+为了方便扫荡，增加了扫荡副本面板，点击副本图片可以直接跳转相应链接，相当于书签。
+
+![alt text](/assets/img/dashboard-img10.png)
+
+首次以及之后每天刷新需要点击Pro副本一览更新数据。
