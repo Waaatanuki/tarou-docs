@@ -72,6 +72,10 @@ SRWare Iron 可以看作一款轻量版Chrome，不会自动升级，很多人�
 ![alt text](/assets/img/start-img6.png)
 
 命令之间有个空格，添加完之后类似于 ...chrome.exe" --silent-debugger-extension-api --disable-backgrounding-occluded-windows
+
+![alt text](/assets/img/start-img10.png)
+
+Edge需要额外关闭上方浏览器设置中的两个选项，关闭后杀掉浏览器进程再次启动生效。
 :::
 
 ::: details macOS
