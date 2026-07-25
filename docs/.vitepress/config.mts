@@ -53,6 +53,7 @@ export default defineConfig({
           { text: '禁祸祛除', link: '/feature/odiant' },
           { text: '队伍信息', link: '/feature/party' },
           { text: '配置查询', link: '/feature/build' },
+          { text: '肉鸽情报', link: '/feature/dungeon' },
           { text: '战斗信息', link: '/feature/combat' },
           { text: '战斗记录', link: '/feature/history' },
           { text: '标记玩家', link: '/feature/patient' },
